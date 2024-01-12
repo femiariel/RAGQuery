@@ -1,0 +1,13 @@
+sentence-transformers 
+tokenizers==0.15.0 
+transformers==4.36.1  
+gradio
+numpy
+langchain
+easyocr
+nltk
+faiss-cpu
+pandas
+PyMuPDF
+protobuf
+streamlit
